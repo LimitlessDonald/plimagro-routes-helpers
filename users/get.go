@@ -1,4 +1,4 @@
-package usersRouteHelper
+package usersRoutesHelper
 
 type get struct {
 	Me getMe

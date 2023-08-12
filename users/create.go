@@ -1,4 +1,4 @@
-package usersRouteHelper
+package usersRoutesHelper
 
 type create struct {
 	Adduser string

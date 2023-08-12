@@ -1,4 +1,4 @@
-package usersRouteHelper
+package usersRoutesHelper
 
 type update struct {
 	Me updateMe
